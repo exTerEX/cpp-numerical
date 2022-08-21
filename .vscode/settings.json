@@ -2,5 +2,15 @@
     "files.associations": {
         ".clang-*": "yaml",
         ".cmake-*": "yaml"
-    }
+    },
+    "C_Cpp.formatting": "clangFormat",
+    "C_Cpp.clang_format_style": "file",
+    "C_Cpp.clang_format_fallbackStyle": "Visual Studio",
+    "C_Cpp.codeAnalysis.clangTidy.enabled": true,
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools",
+        "editor.rulers": [
+            120
+        ]
+    },
 }

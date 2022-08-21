@@ -5,6 +5,6 @@ IndentWidth: 2
 Language: Cpp
 ReferenceAlignment: Left
 AlignArrayOfStructures: None
-ColumnLimit: 100
+ColumnLimit: 120
 ---
 
