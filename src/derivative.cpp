@@ -1,12 +1,7 @@
 #include "numerical/derivative.hpp"
 
+#include <cfloat>
 #include <iomanip>
-
-#ifndef NDEBUG
-#include <iostream>
-
-#define BASE_PRECISION 3
-#endif
 
 namespace numerical {
 

@@ -1,7 +1,6 @@
 #ifndef NUMERICAL_DERIVATIVE_HPP
 #define NUMERICAL_DERIVATIVE_HPP
 
-#include <cfloat>
 #include <cmath>
 #include <functional>
 
